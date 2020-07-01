@@ -1,5 +1,6 @@
-[
-  {
+{
+    "post": [
+        {
     "idbig": "2",
     "id": 75,
     "idmp3": "75",
@@ -38,5 +39,6 @@
     "link": "opening-toaru-kagaku-no-railgun-t",
     "visitor": "223",
     "statuspost": "Publish"
-    }
-]
+        }
+    ]
+}
